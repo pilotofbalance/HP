@@ -1,0 +1,29 @@
+version: "3.7"
+
+services:
+  i-tunes-service:
+    build:
+      context: ./i-tunes-service
+      dockerfile: Dockerfile
+    container_name: i-tunes-service
+    environment:
+      - UI_CLIENT_SERVICE=http://localhost
+    ports:
+      - "3000:3000"
+    restart: "unless-stopped"
+    networks:
+      - resolute
+  i-tunes-client:
+    build:
+      context: ./i-tunes-client/.
+      dockerfile: Dockerfile
+    container_name: i-tunes-client
+    ports:
+      - "80:80"
+    networks:
+      - resolute
+      
+networks:
+  resolute:
+    driver: bridge
+

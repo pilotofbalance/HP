@@ -1,0 +1,160 @@
+2021-04-29 09:00:47 info: 🚀 App listening on the port 3007
+2021-04-29 09:00:49 info: [0mGET /search/Michael%20Jackson [33m404[0m 10.660 ms - 163[0m
+2021-04-29 09:02:22 info: 🚀 App listening on the port 3007
+2021-04-29 09:02:24 info: [0mGET /search/Michael%20Jackson [33m404[0m 12.165 ms - 163[0m
+2021-04-29 09:02:34 info: 🚀 App listening on the port 3007
+2021-04-29 09:02:41 info: [0mGET /search/Michael%20Jackson [33m404[0m 7.770 ms - 163[0m
+2021-04-29 09:03:03 info: 🚀 App listening on the port 3007
+2021-04-29 09:03:07 info: [0mGET /search/Michael%20Jackson [33m404[0m 8.601 ms - 163[0m
+2021-04-29 09:03:15 info: 🚀 App listening on the port 3007
+2021-04-29 09:03:47 info: [0mGET /search/Michael [33m404[0m 9.335 ms - 153[0m
+2021-04-29 09:04:33 info: 🚀 App listening on the port 3007
+2021-04-29 09:04:36 info: [0mGET /search/Michael [33m404[0m 8.748 ms - 153[0m
+2021-04-29 09:04:49 info: 🚀 App listening on the port 3007
+2021-04-29 09:04:55 info: [0mGET /search/Michael [33m404[0m 8.895 ms - 153[0m
+2021-04-29 09:05:14 info: 🚀 App listening on the port 3007
+2021-04-29 09:06:04 info: 🚀 App listening on the port 3007
+2021-04-29 09:06:07 info: [0mGET /search/Michael [33m404[0m 12.046 ms - 153[0m
+2021-04-29 09:06:24 info: 🚀 App listening on the port 3007
+2021-04-29 09:07:29 info: 🚀 App listening on the port 3007
+2021-04-29 09:07:51 info: 🚀 App listening on the port 3007
+2021-04-29 09:07:57 error: StatusCode : 409, Message : Artist not found
+2021-04-29 09:07:57 info: [0mGET /search/Michael [33m409[0m 1190.525 ms - 30[0m
+2021-04-29 09:10:13 info: 🚀 App listening on the port 3007
+2021-04-29 09:10:18 info: 🚀 App listening on the port 3007
+2021-04-29 09:10:28 info: [0mGET /search/Michael%20Jackson [32m200[0m 1178.001 ms - -[0m
+2021-04-29 09:12:39 info: [0mGET /search/Hrbt [32m200[0m 412.129 ms - -[0m
+2021-04-29 09:12:56 info: [0mGET /search/111111111 [32m200[0m 314.866 ms - 953[0m
+2021-04-29 09:13:41 info: [0mGET /search/%2C..%2F [32m200[0m 338.411 ms - 59[0m
+2021-04-29 09:23:55 info: 🚀 App listening on the port 3007
+2021-04-29 09:24:00 error: StatusCode : 500, Message : Cannot read property 'resultCount' of undefined
+2021-04-29 09:24:00 info: [0mGET /search/%2C..%2F [31m500[0m 189.323 ms - 61[0m
+2021-04-29 09:24:26 info: 🚀 App listening on the port 3007
+2021-04-29 09:24:31 error: StatusCode : 500, Message : Cannot read property 'resultCount' of undefined
+2021-04-29 09:24:31 info: [0mGET /search/%2C..%2F [31m500[0m 167.750 ms - 61[0m
+2021-04-29 09:24:49 info: 🚀 App listening on the port 3007
+2021-04-29 09:24:53 error: StatusCode : 409, Message : Artist not found
+2021-04-29 09:24:53 info: [0mGET /search/%2C..%2F [33m409[0m 163.164 ms - 30[0m
+2021-04-29 09:25:23 info: 🚀 App listening on the port 3007
+2021-04-29 09:25:26 info: 🚀 App listening on the port 3007
+2021-04-29 09:25:47 info: 🚀 App listening on the port 3007
+2021-04-29 09:26:03 info: [0mGET /search/Michael%20Jackson [32m200[0m 269.848 ms - -[0m
+2021-04-29 09:27:06 info: 🚀 App listening on the port 3007
+2021-04-29 09:27:27 info: 🚀 App listening on the port 3007
+2021-04-29 09:27:39 info: [0mGET /search/Michael%20Jackson [36m304[0m 351.828 ms - -[0m
+2021-04-29 09:28:38 info: 🚀 App listening on the port 3007
+2021-04-29 09:28:46 info: [0mGET /search/Michael%20Jackson [36m304[0m 233.893 ms - -[0m
+2021-04-29 09:29:27 info: 🚀 App listening on the port 3007
+2021-04-29 09:29:43 info: [0mGET /search/Michael%20Jackson [32m200[0m 158.501 ms - -[0m
+2021-04-29 09:30:04 info: [0mGET /search/Michael [32m200[0m 116.977 ms - -[0m
+2021-04-29 09:35:47 info: api documentation is uvailable under /swagger
+2021-04-29 09:35:47 info: 🚀 App listening on the port 3007
+2021-04-29 09:35:53 info: [0mGET /search/Michael [36m304[0m 157.200 ms - -[0m
+2021-04-29 09:37:21 info: api documentation is uvailable under /swagger
+2021-04-29 09:37:21 info: 🚀 App listening on the port 3007
+2021-04-29 09:37:26 debug: findArtistByName response: 
+2021-04-29 09:37:26 info: [0mGET /search/Michael [36m304[0m 178.407 ms - -[0m
+2021-04-29 09:37:35 info: api documentation is uvailable under /swagger
+2021-04-29 09:37:35 info: 🚀 App listening on the port 3007
+2021-04-29 09:38:00 info: api documentation is uvailable under /swagger
+2021-04-29 09:38:00 info: 🚀 App listening on the port 3007
+2021-04-29 09:38:07 info: [0mGET /search/Michael [36m304[0m 3101.660 ms - -[0m
+2021-04-29 09:38:33 info: api documentation is uvailable under /swagger
+2021-04-29 09:38:33 info: 🚀 App listening on the port 3007
+2021-04-29 09:39:00 info: api documentation is uvailable under /swagger
+2021-04-29 09:39:00 info: 🚀 App listening on the port 3007
+2021-04-29 09:39:06 info: [0mGET /search/Michael [36m304[0m 158.126 ms - -[0m
+2021-04-29 09:39:22 info: api documentation is uvailable under /swagger
+2021-04-29 09:39:22 info: 🚀 App listening on the port 3007
+2021-04-29 09:39:24 info: [0mGET /search/Michael [36m304[0m 116.820 ms - -[0m
+2021-04-29 09:39:53 info: api documentation is uvailable under /swagger
+2021-04-29 09:39:53 info: 🚀 App listening on the port 3007
+2021-04-29 09:39:55 info: api documentation is uvailable under /swagger
+2021-04-29 09:39:55 info: 🚀 App listening on the port 3007
+2021-04-29 09:40:08 info: api documentation is uvailable under /swagger
+2021-04-29 09:40:08 info: 🚀 App listening on the port 3007
+2021-04-29 09:40:50 info: [0mGET /search/Michael [36m304[0m 271.808 ms - -[0m
+2021-04-29 09:41:50 info: api documentation is uvailable under /swagger
+2021-04-29 09:41:51 info: 🚀 App listening on the port 3007
+2021-04-29 09:43:31 info: api documentation is uvailable under /swagger
+2021-04-29 09:43:31 info: 🚀 App listening on the port 3007
+2021-04-29 09:45:01 info: api documentation is uvailable under /swagger
+2021-04-29 09:45:01 info: 🚀 App listening on the port 3007
+2021-04-29 09:45:54 info: api documentation is uvailable under /swagger
+2021-04-29 09:45:54 info: 🚀 App listening on the port 3007
+2021-04-29 09:45:59 info: [0mGET /search/Michael [36m304[0m 197.449 ms - -[0m
+2021-04-29 09:55:49 info: api documentation is uvailable under /swagger
+2021-04-29 09:57:08 info: api documentation is uvailable under /swagger
+2021-04-29 10:16:11 info: api documentation is uvailable under /swagger
+2021-04-29 10:17:51 info: api documentation is uvailable under /swagger
+2021-04-29 10:18:59 info: api documentation is uvailable under /swagger
+2021-04-29 10:21:19 info: api documentation is uvailable under /swagger
+2021-04-29 10:21:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:22:14 info: api documentation is uvailable under /swagger
+2021-04-29 10:22:14 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:22:56 info: api documentation is uvailable under /swagger
+2021-04-29 10:22:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:24:19 info: api documentation is uvailable under /swagger
+2021-04-29 10:24:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:24:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:02 info: api documentation is uvailable under /swagger
+2021-04-29 10:26:02 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:02 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:24 info: api documentation is uvailable under /swagger
+2021-04-29 10:26:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:27:25 info: api documentation is uvailable under /swagger
+2021-04-29 10:27:25 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:27:25 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:29:36 info: api documentation is uvailable under /swagger
+2021-04-29 10:59:38 info: api documentation is uvailable under /swagger
+2021-04-29 10:59:39 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:59:39 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:24 info: api documentation is uvailable under /swagger
+2021-04-29 11:00:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:58 info: api documentation is uvailable under /swagger
+2021-04-29 11:00:58 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:58 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:27 info: api documentation is uvailable under /swagger
+2021-04-29 11:01:27 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:27 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:56 info: api documentation is uvailable under /swagger
+2021-04-29 11:01:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:02:41 info: api documentation is uvailable under /swagger
+2021-04-29 11:02:42 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:02:42 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:06:55 info: api documentation is uvailable under /swagger
+2021-04-29 11:06:55 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:06:55 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:42:20 info: api documentation is uvailable under /swagger
+2021-04-29 11:42:20 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:42:20 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:46:04 info: api documentation is uvailable under /swagger
+2021-04-29 11:46:04 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:04 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:43 info: api documentation is uvailable under /swagger
+2021-04-29 11:46:43 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:44 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:47:15 info: api documentation is uvailable under /swagger
+2021-04-29 11:47:53 info: api documentation is uvailable under /swagger
+2021-04-29 11:49:01 info: api documentation is uvailable under /swagger
+2021-04-29 11:50:38 info: api documentation is uvailable under /swagger
+2021-04-29 11:50:38 info: api documentation is uvailable under /swagger
+2021-04-29 11:50:38 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:51:13 info: api documentation is uvailable under /swagger
+2021-04-29 11:51:13 info: api documentation is uvailable under /swagger
+2021-04-29 11:51:13 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:51:48 info: api documentation is uvailable under /swagger
+2021-04-29 11:51:48 info: api documentation is uvailable under /swagger
+2021-04-29 11:51:48 error: Artist not found
+2021-04-29 11:51:48 error: StatusCode : 409, Message : Artist not found
+2021-04-29 11:52:47 info: api documentation is uvailable under /swagger
+2021-04-29 11:52:47 info: api documentation is uvailable under /swagger
+2021-04-29 11:52:47 error: Artist not found
+2021-04-29 11:52:47 error: StatusCode : 409, Message : Artist not found
+2021-04-29 11:53:46 info: api documentation is uvailable under /swagger
+2021-04-29 11:53:46 info: api documentation is uvailable under /swagger
+2021-04-29 11:53:46 error: Artist not found
+2021-04-29 11:53:46 error: StatusCode : 409, Message : Artist not found

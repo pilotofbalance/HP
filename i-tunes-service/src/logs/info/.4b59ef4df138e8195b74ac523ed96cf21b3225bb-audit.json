@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/andrey/Repos/Test/i-tunes-service/src/logs/info/.4b59ef4df138e8195b74ac523ed96cf21b3225bb-audit.json",
+    "files": [
+        {
+            "date": 1619676045266,
+            "name": "/home/andrey/Repos/Test/i-tunes-service/src/logs/info/2021-04-29.log",
+            "hash": "8ebfea8c4c12699f171b5c58910beaca"
+        }
+    ]
+}

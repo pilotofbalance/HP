@@ -1,0 +1,67 @@
+2021-04-29 09:07:57 error: StatusCode : 409, Message : Artist not found
+2021-04-29 09:24:00 error: StatusCode : 500, Message : Cannot read property 'resultCount' of undefined
+2021-04-29 09:24:31 error: StatusCode : 500, Message : Cannot read property 'resultCount' of undefined
+2021-04-29 09:24:53 error: StatusCode : 409, Message : Artist not found
+2021-04-29 09:41:32 error: uncaughtException: envalid_1.log is not a function
+TypeError: envalid_1.log is not a function
+    at Object.validateEnv [as default] (/home/andrey/Repos/Test/i-tunes-service/src/utils/validateEnv.ts:7:16)
+    at Object.<anonymous> (/home/andrey/Repos/Test/i-tunes-service/src/server.ts:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Module.m._compile (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Object.require.extensions.<computed> [as .ts] (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at main (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/bin.ts:198:14)
+2021-04-29 09:41:55 error: uncaughtException: envalid_1.log is not a function
+TypeError: envalid_1.log is not a function
+    at Object.validateEnv [as default] (/home/andrey/Repos/Test/i-tunes-service/src/utils/validateEnv.ts:7:16)
+    at Object.<anonymous> (/home/andrey/Repos/Test/i-tunes-service/src/server.ts:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Module.m._compile (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Object.require.extensions.<computed> [as .ts] (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at main (/home/andrey/Repos/Test/i-tunes-service/node_modules/ts-node/src/bin.ts:198:14)
+2021-04-29 10:21:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:22:14 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:22:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:24:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:24:19 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:02 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:02 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:26:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:27:25 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:27:25 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:59:39 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 10:59:39 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:24 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:58 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:00:58 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:27 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:27 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:01:56 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:02:42 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:02:42 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:06:55 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:06:55 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:42:20 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:42:20 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:46:04 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:04 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:43 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:46:44 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1
+2021-04-29 11:50:38 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:51:13 error: StatusCode : 500, Message : Unexpected token u in JSON at position 0
+2021-04-29 11:51:48 error: Artist not found
+2021-04-29 11:51:48 error: StatusCode : 409, Message : Artist not found
+2021-04-29 11:52:47 error: Artist not found
+2021-04-29 11:52:47 error: StatusCode : 409, Message : Artist not found
+2021-04-29 11:53:46 error: Artist not found
+2021-04-29 11:53:46 error: StatusCode : 409, Message : Artist not found

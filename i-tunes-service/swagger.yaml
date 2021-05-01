@@ -1,0 +1,37 @@
+paths:
+  /search/{artist}:
+    get:
+      summary: Returns a list of albums for specified artist.
+      description: Get albums data.
+      tags: 
+        - search
+      parameters:
+        - name: artist
+          in: path
+          required: true
+          description: The artist name.
+          schema:
+            type: string
+      responses:
+        '200':    
+          description: array of albums
+          content:
+            application/json:
+              schema: 
+                type: object
+                properties:
+                  id:
+                    type: integer
+                    description: Artist Id
+                  artist:
+                    type: string
+                    description: Artist Name
+                  title:
+                    type: string
+                    description: Albom Title
+                  url:
+                    type: string
+                    description: Thumbnail URI
+tags:
+  - name: search
+    description: iTunes albom search API
